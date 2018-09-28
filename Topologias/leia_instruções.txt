@@ -1,0 +1,5 @@
+rede_i_h_o_b.net, onde:
+i -->Neurônios na camada de entrada
+h -->Neurônios na camada escondida
+o -->Neurônios na camada de saída
+b -->rede com shortcut connections? TRUE - sim | FALSE - não

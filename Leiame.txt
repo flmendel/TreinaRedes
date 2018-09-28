@@ -1,0 +1,4 @@
+1.0 Criação do Programa
+1.1 Foi corrigido o algoritmo de leitura dos Arquivos .res
+1.2 Bug com o número de neuronios gerado pelo .res novo
+1.3 ajuste do método treinaRede para o novo formato das topologias (com/sem shortcut)
